@@ -14,17 +14,23 @@ A proposal for a standard password changing API.
 * Security 
     * Users will rotate their passwords more often
 
-# Roadmap
+# So what's next?
 
-## Clean up this project
+I would like to get this repository out into the community, get it vetted. Though the idea of authenticating via password over an API shouldn't be too controversial, this is security software, and I would like to know what to fix, or any conceivable reason this is altogether a bad idea. This includes cultural reasons. For instance, if users change their passwords *too* often, what would be a problem? [todo i think you had some sort of faux-plausible example?]
 
-I would like to get this pull request out into the community, get it vetted. Though the idea of authenticating via password over an API shouldn't be too controversial, this is security software, and I would like to know any conceivable reason this is a bad idea. This includes cultural reasons. For instance, if users change their passwords *too* often, what would be a problem? [todo i think you had some sort of faux-plausible example?]
+I'm also soliciting pull request from people who have suggestions on what to improve. 
 
 Once it's clear that it's not discouraged by the security heavy hitters, or the community at large, we will roll out V0. If you are interested, and would like to know when it is ready, please email [TODO] or follow @[TODO] and you will be notified when V0 is ready.
 
+# Roadmap
+
+## **Current**: Clean up this project
+
+Soliciting feedback, deciding whether to continue. If so, solidifying V0, and as working on V1.
+
 ## V0 - Signal of Good Faith
 
-This version will have no functionality. It will just be a JSON file. Serves as a signal that a given website or project is willing to implement Version 1 once a well used password manager shows interest in implementing it on their end.
+This version will have no functionality. It will just be a JSON file. Serves as a signal that a given website or project is willing to implement V1 once a well used password manager shows interest in implementing it on their end.
 
 The purpose of this is to smooth over the Chicken and Egg problem of getting sites and password managers to get on board. If we can get smaller sites on board, proving it by going as far as to put up a static file, it gets the ball rolling and starts to signal to the password managers that it's something real.
 
