@@ -1,3 +1,5 @@
+# API
+
 Format: Json
 Protocol: HTTPS
 Root URL: /standard_pasword_api/V1/
@@ -30,3 +32,9 @@ Output:
         * Free form
         * Complete sentence.
         * Useful for a user dialog
+
+# Client Implementation Requirements
+
+* Confirm the certificate of the site before making an HTTPS request to it.
+* Keep any internet-facing code in a different *process* than what has access to the in-memory decrypted password database.
+* Check that the site claims to implent this version of the API before posting any sensitive information to it.
