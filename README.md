@@ -4,7 +4,7 @@ As of the version you are reading, this spec is in early development; do not imp
 
 # What is this?
 
-A proposal for a universal standard password changing API.
+A proposal for a universal standard password changing API. With this, password manager programs can add a "change password" feature.
 
 ## Purpose
 
