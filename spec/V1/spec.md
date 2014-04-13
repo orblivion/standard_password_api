@@ -1,25 +1,28 @@
 # API
 
-Format: Json
+* Format: Json
+* Protocol: HTTPS
+* Root URL: /standard_pasword_api/V1/
 
-Protocol: HTTPS
-
-Root URL: /standard_pasword_api/V1/
-
-**Info** /
+## Info: /
 
 Accepts:
+
     GET HEAD
 
 Input:
+
     (none)
 
 Returns:
+
     info: ""
 
-Change Password /change_password/
+## Change Password: /change_password/
 
-Accept: POST
+Accepts:
+
+    POST
 
 Input:
 
@@ -39,6 +42,10 @@ Output:
         * Free form
         * Complete sentence.
         * Useful for a user dialog
+
+## Check Password: /check_password/
+
+    TODO
 
 # Client Implementation Requirements
 
