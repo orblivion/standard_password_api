@@ -34,7 +34,8 @@ Output:
 
     success: "true"|"false"
 
-    error: "authentication"|"password_format"
+    error: "authentication"|"password_format"|"more_data_required"
+        * more_data_required would be for two-factor authentication, among possibly other cases
 
     password_specifications: <string>
 
