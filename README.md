@@ -2,7 +2,7 @@
 
 As of the version you are reading, this spec is in early development; do not implement it. Please see the Roadmap section below for details.
 
-# What is this
+# What is this?
 
 A proposal for a standard password changing API.
 
@@ -13,10 +13,11 @@ A proposal for a standard password changing API.
     * In case of security disaster.
 * Security 
     * Users will rotate their passwords more often
+    * Users might start using password managers more, getting them to make better passwords
 
 # So what's next?
 
-I would like to get this repository out into the community, get it vetted. Though the idea of authenticating via password over an API shouldn't be too controversial, this is security software, and I would like to know what to fix, or any conceivable reason this is altogether a bad idea. This includes cultural reasons. For instance, if users change their passwords *too* often, what would be a problem? [todo i think you had some sort of faux-plausible example?]
+I would like to get this repository out into the community, get it vetted. Though the idea of authenticating via password over an API shouldn't be too controversial, this is security software, and I would like to know what to fix, or any conceivable reason this is altogether a bad idea. This includes cultural reasons. For instance (as a silly example), if users not used to password managers start using them, will they end up losing their passwords through carelessness more often?
 
 I'm also soliciting pull request from people who have suggestions on what to improve. 
 
