@@ -14,6 +14,7 @@ A proposal for a standard password changing API.
 * Security 
     * Users will rotate their passwords more often
     * Users might start using password managers more, getting them to make better passwords
+    * Semi-automated, scheduled password rotation (requiring master password)
 
 # So what's next?
 
