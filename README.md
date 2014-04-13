@@ -1,6 +1,6 @@
-# Disclaimer
+# Warning
 
-As of the version you are reading, this spec is in early development; do not implement it. Please see the Roadmap section below for details.
+As of the version you are reading, this spec is in early development; do not implement it. Please see below for details.
 
 # What is this?
 
