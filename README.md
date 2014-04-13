@@ -24,11 +24,11 @@ I'm also soliciting pull request from people who have suggestions on what to imp
 
 Once it's clear that it's not discouraged by the security heavy hitters, or the community at large, we will roll out V0. If you are interested, and would like to know when it is ready, please email [TODO] or follow @[TODO] and you will be notified when V0 is ready.
 
+# Then what?
+
+My hope is that once this gets solidified, and there is serious momentum behind it, we can start to convince smaller projects and websites to . In particular I'm hoping that the Open Source community will sign on, with projects such as Diaspora, Identi.ca, and Mediagoblin. From there, I will personally solicit some of the members of the startup community in the Silicon Valley area (and I encourage anybody else interested to do the same) who are open to experimentation, to post V0 (a static page, see below). I'm hoping enough good faith assent to the idea will be enough to convince the creators of a few password manager programs to sign on to the idea. We can then start to approach some somewhat larger, more conservative, companies in the area, and have it snowball upwards from there.
+
 # Roadmap
-
-## **Current**: Clean up this project
-
-Soliciting feedback, deciding whether to continue. If so, solidifying V0, and as working on V1.
 
 ## V0 - Signal of Good Faith
 
